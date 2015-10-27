@@ -1,0 +1,22 @@
+{
+  "name": "angular-spa-in-aws-s3",
+  "homepage": "https://github.com/jeonghwan-kim/.vimrc",
+  "authors": [
+    "jeonghwan <ej88ej@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}
